@@ -6,3 +6,4 @@ You evade opponents bullets, while trying to eliminate them!
 # Dependencies
 
 Pygame: `pip install pygame`
+My module: `pip install bearsharkutils`
